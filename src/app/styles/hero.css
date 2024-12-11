@@ -1,0 +1,99 @@
+/* .home {
+    position:relative;
+    width: 100%;
+    justify-content: space-between;
+    height: 100%;
+    background:#13022bec no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    padding: 70px 10%;
+    /* color: antiquewhite; */
+/* } */ */
+/* .home-content {
+    max-width: 600px;
+}
+.home-content h3 span{
+    color: #0ef;
+
+}
+/* .home-content h3:nth-of-type(2){
+    margin-bottom:30px;
+} */ */
+/* .home-content h3{
+    font-size: 32px;
+    font-weight: 700;
+
+}
+.home-content h1{
+    font-size: 56px;
+    font-weight: 700;
+    margin: -3px 0;
+}
+.home-content p{
+    font-size: 20px;
+    
+}
+.home-sci a {
+    display:inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    background: transparent;
+    border: 2px solid rgb(17, 17, 17);
+    border-radius: 50%;
+    font-size: 20px;
+    color: rgb(21, 21, 24);
+    text-decoration: none;
+    margin: 30px 15px 30px 0;
+
+}
+.home-sci a :hover{
+    background: #110f11;
+    color: rgb(159, 7, 247);
+    box-shadow: 0 0 20px rgb(153, 6, 252);
+}
+.btn-box{
+    display: inline-block;
+    padding: 12px 28px;
+    background: rgb(0, 3, 15);
+    border-radius: 40px;
+    font-size: 16px;
+    color: white;
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-weight: 600;
+}
+.btn-box:hover {
+    box-shadow: 0 0 5px #9b05d6 ,
+    0 0 25px #9b05d6, 0 0 50px #9b05d6,
+    0 0 100px #9b05d6, 0 0 200px #9b05d6
+}
+
+.design .circle{
+    aspect-ratio: 1;
+    position: absolute;
+    border-radius: 50%;
+    top: 50%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+
+}
+    
+.circle:nth-child(1){
+    background: linear-gradient(90deg, transparent 50%, #13022bec 50%);
+    width: 38rem;
+}
+.circle:nth-child(2){
+    background-image: url("im.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 22rem;
+    box-shadow: 0 0 1rem #fff,
+    inset 0 0 1rem #fff ,
+    0 0 2rem #9b05d6,
+    inset 0 0 4rem #9b05d6,
+    inset 0 0 4rem #9b05d6;
+} */
